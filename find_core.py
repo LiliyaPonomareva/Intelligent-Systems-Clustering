@@ -1,9 +1,13 @@
 from create_obj import *
 
+#создаю массивы для сохранения ядер классов
+
 core1 = []
 core2 = []
 core3 = []
 core4 = []
+
+#N=3, i=hight, j=width
 
 for i in range(10):
     core1.append([])
