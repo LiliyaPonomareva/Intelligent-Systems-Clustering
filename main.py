@@ -1,5 +1,6 @@
 from find_distance import *
 
+#все полученные ядра классов
 core = [core1, core2, core3, core4]
 for a in range(4):
     if (a == 0):
@@ -12,6 +13,7 @@ for a in range(4):
         print('Ядро класса S:')
     print(core[a])
 
+#Объекты и их параметры
 obj = [obj13, obj14, obj15, obj16]
 for ind in range(4):
     print('Объект', ind+1)
