@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<object class="square" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="square" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="square" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="triangle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 0 0 0 0 0</row>
+		<row>0 0 0 1 1 1 0 0 0 0</row>
+		<row>0 0 1 1 1 1 1 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 0 0</row>
+		<row>1 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="triangle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 0 0 0 0 0</row>
+		<row>0 0 0 1 0 1 0 0 0 0</row>
+		<row>0 0 1 0 0 0 1 0 0 0</row>
+		<row>0 1 0 0 0 0 0 1 0 0</row>
+		<row>1 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="triangle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 0 0 0 0 0</row>
+		<row>0 0 0 0 1 0 0 0 0 0</row>
+		<row>0 0 0 1 1 1 0 0 0 0</row>
+		<row>0 0 0 1 1 1 0 0 0 0</row>
+		<row>0 0 1 1 1 1 1 0 0 0</row>
+		<row>0 0 1 1 1 1 1 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 0 0</row>
+		<row>0 1 1 1 1 1 1 1 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="circle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 1 1 0 0 1 1 0 0</row>
+		<row>1 1 0 0 0 0 0 0 1 1</row>
+		<row>0 0 1 1 0 0 1 1 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="circle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 1 1 0 0 0</row>
+		<row>0 0 0 1 1 1 1 1 0 0</row>
+		<row>0 0 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 1 1 1 1 1 0 0</row>
+		<row>0 0 0 0 1 1 1 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="circle" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 0 1 1 1 1 0 0 0</row>
+		<row>0 0 1 1 1 1 1 1 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 1 1 1 1 1 1 0 0</row>
+		<row>0 0 0 1 1 1 1 0 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="s" width="10" height="10">
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 1 1 0</row>
+		<row>0 0 0 0 0 0 0 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 0 0 0 0 0 0 0</row>
+		<row>0 1 1 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+	</object>
+	<object class="s" width="10" height="10">
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="s" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+	</object>
+
+	<object class="0" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>1 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 0 0 0 1 1 1 0</row>
+		<row>0 1 1 0 0 0 0 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+	</object>
+	<object class="0" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 1 0 0 0 0 0 0</row>
+		<row>0 0 1 1 1 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 0 0 0 0</row>
+		<row>1 1 1 1 1 1 1 0 0 0</row>
+		<row>1 1 1 1 1 1 1 1 0 0</row>
+		<row>1 1 1 1 1 1 1 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="0" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 0 1 0 0 1 0 0 0</row>
+		<row>0 1 1 0 0 0 0 1 0 0</row>
+		<row>0 1 0 0 1 1 0 0 1 0</row>
+		<row>0 1 0 0 0 0 0 0 1 0</row>
+		<row>0 0 1 0 0 0 0 1 0 0</row>
+		<row>0 0 0 1 0 0 1 0 0 0</row>
+		<row>0 0 0 0 1 1 0 0 0 0</row>
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+	</object>
+	<object class="0" width="10" height="10">
+		<row>0 0 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 0 0 0 0 0 1 1 0</row>
+		<row>0 0 0 0 0 0 0 0 1 0</row>
+		<row>0 0 0 0 0 0 0 1 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+		<row>0 1 1 0 0 0 0 0 0 0</row>
+		<row>0 1 0 0 0 0 0 0 0 0</row>
+		<row>0 1 1 0 0 0 0 0 1 0</row>
+		<row>0 1 1 1 1 1 1 1 1 0</row>
+	</object>
+</root>
